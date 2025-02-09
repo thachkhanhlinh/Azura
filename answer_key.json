@@ -2970,7 +2970,7 @@
         "correctAnswer": "Lập phương án cụ thể, chi tiết khi triển khai kế hoạch công việc; Phân định rõ trách nhiệm thực hiện của từng chức danh trong PCT và các bộ phận trong đơn vị."
     },
     {
-        "question": "Theo Quy trình An toàn điện, điều nào không đúng trong quy định khi vận hành xe chuyên dùng ?",
+        "question": "Theo Quy trình An toàn điện, điều nào không đúng trong quy định khi vận hành xe chuyên dùng ?",
         "answers": [
             "Chỉ những người đã được đào tạo kỹ năng đầy đủ và có chứng chỉ liên quan theo quy định của pháp luật mới được vận hành xe chuyên dùng.",
             "Người vận hành phải kiểm tra xe chuyên dùng trước khi xuất phát.",
@@ -2980,7 +2980,7 @@
         "correctAnswer": "Những người đã được đào tạo kỹ năng đầy đủ và được huấn luyện về QTATĐ về nội dung được phép làm việc mới được vận hành xe chuyên dùng."
     },
     {
-        "question": "Theo Quy trình An toàn điện, khi di chuyển, vận hành xe chuyên dùng trong khu vực trạm phải đảm bảo khoảng cách an toàn như thế nào ?",
+        "question": "Theo Quy trình An toàn điện, khi di chuyển, vận hành xe chuyên dùng trong khu vực trạm phải đảm bảo khoảng cách an toàn như thế nào ?",
         "answers": [
             "Khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm không nhỏ hơn khoảng cách an toàn điện không rào chắn.",
             "Khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm không nhỏ hơn khoảng cách an toàn phóng điện khi có rào chắn.",
@@ -6723,8 +6723,8 @@
         "question": "Theo Quy trình An toàn điện quy định trong trường hợp làm việc trên các đường cáp vặn xoắn hoặc dây bọc hạ áp, vị trí đặt nối đất được quy định như thế nào?",
         "answers": [
             "Thực hiện nối đất tại điểm hở như hộp aptomat đầu nguồn, hộp phân dây, ghíp nối, đầu chờ nối đất.",
-            "  Trong trường hợp không thực hiện được nối đất các đường cáp vặn xoắn thì không thi công nữa.",
-            "  ĐVQLVH phải tăng cường giám sát tại nơi làm việc.",
+            "  Trong trường hợp không thực hiện được nối đất các đường cáp vặn xoắn thì không thi công nữa.",
+            "  ĐVQLVH phải tăng cường giám sát tại nơi làm việc.",
             "Phải thực hiện các BPAT của ĐVCT xây dựng theo quy trình đảm bảo an toàn riêng được cấp có thẩm quyền phê duyệt."
         ],
         "correctAnswer": "Thực hiện nối đất tại điểm hở như hộp aptomat đầu nguồn, hộp phân dây, ghíp nối, đầu chờ nối đất."
@@ -6732,12 +6732,12 @@
     {
         "question": "Theo Quy trình An toàn điện quy định trong trường hợp làm việc trên các đường cáp vặn xoắn nhưng không thực hiện được nối đất thì xử lý như thế nào?",
         "answers": [
-            "  Phải coi những công việc là công tác hotline (ĐVCT phải thực hiện theo quy trình đảm bảo an toàn riêng được cấp có thẩm quyền phê duyệt).",
-            "  Trong trường hợp không thực hiện được nối đất các đường cáp vặn xoắn thì không thi công nữa.",
-            "  ĐVQLVH phải tăng cường giám sát tại nơi làm việc.",
+            "  Phải coi những công việc là công tác hotline (ĐVCT phải thực hiện theo quy trình đảm bảo an toàn riêng được cấp có thẩm quyền phê duyệt).",
+            "  Trong trường hợp không thực hiện được nối đất các đường cáp vặn xoắn thì không thi công nữa.",
+            "  ĐVQLVH phải tăng cường giám sát tại nơi làm việc.",
             "Phải thực hiện các BPAT của ĐVCT xây dựng theo quy trình đảm bảo an toàn riêng được cấp có thẩm quyền phê duyệt."
         ],
-        "correctAnswer": "  Phải coi những công việc là công tác hotline (ĐVCT phải thực hiện theo quy trình đảm bảo an toàn riêng được cấp có thẩm quyền phê duyệt)."
+        "correctAnswer": "  Phải coi những công việc là công tác hotline (ĐVCT phải thực hiện theo quy trình đảm bảo an toàn riêng được cấp có thẩm quyền phê duyệt)."
     },
     {
         "question": "Theo Quy trình An toàn điện, việc xác nhận đường cáp điện lực không còn điện để tiến hành làm việc được quy định như thế nào?",
@@ -7964,8 +7964,7 @@
         "answers": [
             "Các thiết bị có điện dung lớn nếu không tham gia vào sơ đồ thử nghiệm có đặt trong mặt bằng thử nghiệm, không cần nối tắt và nối đất, nhưng phải cử người trông coi.Các thiết bị có điện dung lớn nếu không tham gia vào sơ đồ thử nghiệm nhưng đặt trong mặt bằng thử nghiệm, phải được nối tắt và nối đất.",
             "Khi thử nghiệm đối tượng có điện dung lớn như tụ điện, cáp, mặt bằng thử nghiệm phải có thiết bị nối tắt và chập mạch sản phẩm cần thử với đất.",
-            "Khi kết thúc thử nghiệm, các tụ điện được đấu vào sơ đồ thử nghiệm phải được phóng điện và nối đất.",
-            NaN
+            "Khi kết thúc thử nghiệm, các tụ điện được đấu vào sơ đồ thử nghiệm phải được phóng điện và nối đất."
         ],
         "correctAnswer": "Các thiết bị có điện dung lớn nếu không tham gia vào sơ đồ thử nghiệm có đặt trong mặt bằng thử nghiệm, không cần nối tắt và nối đất, nhưng phải cử người trông coi.Các thiết bị có điện dung lớn nếu không tham gia vào sơ đồ thử nghiệm nhưng đặt trong mặt bằng thử nghiệm, phải được nối tắt và nối đất."
     },
@@ -11230,7 +11229,7 @@
         "correctAnswer": "Vùng đã được thiết lập các biện pháp an toàn cho người, thiết bị khi thực hiện công việc."
     },
     {
-        "question": "Theo Thông tư 39/2020/TT-BCT thì Người cấp phiếu công tác/ lệnh công tác là ?",
+        "question": "Theo Thông tư 39/2020/TT-BCT thì Người cấp phiếu công tác/ lệnh công tác là ?",
         "answers": [
             "Là người viết phiếu công tác/ lệnh công tác cho đơn vị công tác và phải nắm rõ nội dung công việc, các điều kiện để đảm bảo an toàn về điện khi tiến hành công việc.",
             "Là người viết phiếu thao tác/ lệnh công tác cho đơn vị công tác và phải nắm rõ nội dung công việc, các điều kiện để đảm bảo an toàn về điện khi tiến hành công việc.",
@@ -11355,7 +11354,7 @@
             "Điện cao áp là điện áp từ 1.000 (một nghìn) V trở lên; Điện hạ áp là điện áp dưới 1.000 (một nghìn) V.",
             "Điện cao áp là điện áp 110kV và 220kV; Điện hạ áp là điện áp dưới 1.000 (một nghìn) V.",
             "Điện cao áp là điện áp từ 1.000 (một nghìn) V trở lên; Điện hạ áp là điện áp 380/220 V.",
-            "Điện cao áp là điện áp từ trên 1.000 (một nghìn) V trở lên ; Điện hạ áp là điện áp đến 1.000 (một nghìn) V."
+            "Điện cao áp là điện áp từ trên 1.000 (một nghìn) V trở lên ; Điện hạ áp là điện áp đến 1.000 (một nghìn) V."
         ],
         "correctAnswer": "Điện cao áp là điện áp từ 1.000 (một nghìn) V trở lên; Điện hạ áp là điện áp dưới 1.000 (một nghìn) V."
     },
@@ -12703,11 +12702,11 @@
         "question": "Theo Thông tư 36/2019/TT-BLĐTBXH thì các loại sau đây, cái nào là thiết bị có yêu cầu nghiêm ngặt về ATVSLĐ?",
         "answers": [
             "Cần trục. cầu trục, Xe nâng người: Xe nâng người tự hành; Xe bán tải; Thang máy các loại.",
-            "Xe nâng người tự hành, xe nâng người sử dụng cơ cấu truyền động thủy lực Thang máy các loại; Thang sắt các loại",
+            "Xe nâng người tự hành, xe nâng người sử dụng cơ cấu truyền động thủy lực Thang máy các loại; Thang sắt các loại",
             "Xe nâng người: Xe khách gường nằm 2 tầng;Thang máy các loại",
-            "Cần trục. cầu trục, Xe nâng người: Xe nâng người tự hành, xe nâng người sử dụng cơ cấu truyền động thủy lực Thang máy các loại"
+            "Cần trục. cầu trục, Xe nâng người: Xe nâng người tự hành, xe nâng người sử dụng cơ cấu truyền động thủy lực Thang máy các loại"
         ],
-        "correctAnswer": "Cần trục. cầu trục, Xe nâng người: Xe nâng người tự hành, xe nâng người sử dụng cơ cấu truyền động thủy lực Thang máy các loại"
+        "correctAnswer": "Cần trục. cầu trục, Xe nâng người: Xe nâng người tự hành, xe nâng người sử dụng cơ cấu truyền động thủy lực Thang máy các loại"
     },
     {
         "question": "Theo Thông tư 36/2019/TT-BLĐTBXH thì các dụng cụ sau đây, cái nào là thiết bị có yêu cầu nghiêm ngặt về ATVSLĐ?",
@@ -13202,15 +13201,15 @@
     {
         "question": "Luật PCCC số 27/2001/QH10, đối tượng áp dụng của Luật phòng cháy và chữa cháy được qui định như thế nào ?",
         "answers": [
-            "Tất cả các cơ quan, tổ chức, hộ gia đình và cá nhân hoạt động sinh sống trên lãnh thổ Việt Nam;",
-            "Tất cả các cơ quan, tổ chức, hộ gia đình và cá nhân hoạt động sinh sống trong và ngoài nước;",
+            "Tất cả các cơ quan, tổ chức, hộ gia đình và cá nhân hoạt động sinh sống trên lãnh thổ Việt Nam;",
+            "Tất cả các cơ quan, tổ chức, hộ gia đình và cá nhân hoạt động sinh sống trong và ngoài nước;",
             "Tất cả các cơ quan, tổ chức và hộ gia đình trên lãnh thổ Việt Nam;",
             "Tất cả các cơ sở hoạt động, sản xuất, kinh doanh và cá nhân sinh sống trên lãnh thổ Việt Nam;"
         ],
-        "correctAnswer": "Tất cả các cơ quan, tổ chức, hộ gia đình và cá nhân hoạt động sinh sống trên lãnh thổ Việt Nam;"
+        "correctAnswer": "Tất cả các cơ quan, tổ chức, hộ gia đình và cá nhân hoạt động sinh sống trên lãnh thổ Việt Nam;"
     },
     {
-        "question": "Luật PCCC số 27/2001/QH10, qui định “Chữa cháy” gồm những công việc gì ?     ",
+        "question": "Luật PCCC số 27/2001/QH10, qui định “Chữa cháy” gồm những công việc gì ?     ",
         "answers": [
             "Ý 1 - Gồm các công việc huy động triển khai lực lượng, phương tiện chữa cháy, cắt điện, tổ chức thoát nạn, cứu người, cứu tài sản, chống cháy lan, dập tắt đám cháy và các hoạt động khác liên quan đến chữa cháy;",
             "Ý 2 - Gồm các công việc tổ chức thoát nạn, cứu người, cứu tài sản, huy động triển khai lực lượng, phương tiện chữa cháy dập tắt đám cháy;",
@@ -13242,12 +13241,12 @@
     {
         "question": "Luật PCCC số 27/2001/QH10, quy định Chủ sở hữu, người chỉ huy, người điều khiển các phương tiện giao thông phải có trách nhiệm bảo đảm an toàn PCCC với phương tiện của mình như thế nào ?",
         "answers": [
-            "Đảm bảo an toàn PCCC trong suốt quá trình hoạt động của xe;",
+            "Đảm bảo an toàn PCCC trong suốt quá trình hoạt động của xe;",
             "Đảm bảo an toàn PCCC khi tham gia giao thông trên đường;",
             "Đảm bảo an toàn PCCC khi tham gia giao thông trên đường, khi sửa chữa;",
             "Đảm bảo an toàn PCCC khi tham gia giao thông trên đường, ở những nơi dễ cháy, nổ khi sửa chữa."
         ],
-        "correctAnswer": "Đảm bảo an toàn PCCC trong suốt quá trình hoạt động của xe;"
+        "correctAnswer": "Đảm bảo an toàn PCCC trong suốt quá trình hoạt động của xe;"
     },
     {
         "question": "Luật PCCC số 27/2001/QH10, giải thích từ “ Cháy ” được hiểu như thế nào?",
@@ -13274,7 +13273,7 @@
         "answers": [
             "Huy động sức mạnh tổng hợp của toàn dân tham gia hoạt động PCCC;",
             "PCCC là lấy phòng ngừa là chính, đề cao trách nhiệm của toàn dân đối với hoạt động PCCC;",
-            "Cơ quan, tổ chức, hộ gia đình và cá nhân trong hoạt động có liên quan đến PCCC phải tuân thủ các tiêu chuẩn của Việt Nam về PCCC;",
+            "Cơ quan, tổ chức, hộ gia đình và cá nhân trong hoạt động có liên quan đến PCCC phải tuân thủ các tiêu chuẩn của Việt Nam về PCCC;",
             "PCCC là trách nhiệm của mỗi cơ quan ,tổ chức, hộ gia đình và cá nhân."
         ],
         "correctAnswer": "Huy động sức mạnh tổng hợp của toàn dân tham gia hoạt động PCCC;"
@@ -13294,7 +13293,7 @@
         "answers": [
             "Là Chất lỏng, chất khí, chất rắn hoặc vật tư, hàng hoá dễ xảy ra cháy nổ;",
             "Là Chất lỏng, chất khí, chất rắn, hoặc máy móc dễ xảy ra cháy, nổ;",
-            "Là chất lỏng, chất khí, máy móc hoặc vật tư, hàng hoá dễ xảy ra cháy nổ;",
+            "Là chất lỏng, chất khí, máy móc hoặc vật tư, hàng hoá dễ xảy ra cháy nổ;",
             "Các chất có tính chất đặc biệt nguy hiểm về cháy nổ như xăng, dầu, khí đốt, hóa lỏng."
         ],
         "correctAnswer": "Là Chất lỏng, chất khí, chất rắn hoặc vật tư, hàng hoá dễ xảy ra cháy nổ;"
@@ -14914,8 +14913,7 @@
         "answers": [
             "Không phải lập cho công tác phòng ngừa, ứng phó giảm nhẹ thiệt hại do thiên tai",
             "Đưa công tác phòng ngừa, ứng phó giảm nhẹ thiệt hại do thiên tai vào kế hoạch sản xuất kinh doanh hàng năm của đơn vị",
-            "Lập kế hoạch riêng cho công tác phòng ngừa, ứng phó giảm nhẹ thiệt hại do thiên tai vào kế hoạch sản xuất kinh doanh hàng năm của đơn vị",
-            NaN
+            "Lập kế hoạch riêng cho công tác phòng ngừa, ứng phó giảm nhẹ thiệt hại do thiên tai vào kế hoạch sản xuất kinh doanh hàng năm của đơn vị"
         ],
         "correctAnswer": "Đưa công tác phòng ngừa, ứng phó giảm nhẹ thiệt hại do thiên tai vào kế hoạch sản xuất kinh doanh hàng năm của đơn vị"
     },
@@ -14954,8 +14952,7 @@
         "answers": [
             "Dựa trên cơ sở kinh nghiệm",
             "Dựa trên cơ sở khoa học",
-            "Dựa trên cơ sở khoa học, kết hợp sử dụng kinh nghiệm truyền thống với tiến bộ khoa học, công nghệ",
-            NaN
+            "Dựa trên cơ sở khoa học, kết hợp sử dụng kinh nghiệm truyền thống với tiến bộ khoa học, công nghệ"
         ],
         "correctAnswer": "Dựa trên cơ sở khoa học, kết hợp sử dụng kinh nghiệm truyền thống với tiến bộ khoa học, công nghệ"
     },
@@ -15380,7 +15377,7 @@
         "correctAnswer": "Người lao động có trách nhiệm chấp hành quy định, nội quy, quy trình, yêu cầu về an toàn, vệ sinh lao động; tuân thủ pháp luật và nắm vững kiến thức, kỹ năng về các biện pháp bảo đảm an toàn, vệ sinh lao động tại nơi làm việc"
     },
     {
-        "question": "Theo Thông tư 39/2020/TT-BCT thì Đơn vị quản lý vận hành là ?",
+        "question": "Theo Thông tư 39/2020/TT-BCT thì Đơn vị quản lý vận hành là ?",
         "answers": [
             "Đơn vị trực tiếp thực hiện quản lý, vận hành các công trình điện lực",
             "Đơn vị trực tiếp chỉ huy vận hành các công trình điện lực",
@@ -16784,8 +16781,7 @@
         "answers": [
             "Quá trình tìm hiểu, xác định những rủi ro có thể xảy ra liên quan tới công việc chuẩn bị thực hiện và đưa ra biện pháp phòng ngừa hợp lý.",
             "Quá trình tìm hiểu, xác định những mối nguy có thể xảy ra liên quan tới công việc chuẩn bị thực hiện và đưa ra biện pháp phòng ngừa hợp lý.",
-            "Quá trình tìm hiểu, xác định những rủi ro xảy ra tới công việc đang thực hiện và đưa ra biện pháp phòng ngừa hợp lý.",
-            NaN
+            "Quá trình tìm hiểu, xác định những rủi ro xảy ra tới công việc đang thực hiện và đưa ra biện pháp phòng ngừa hợp lý."
         ],
         "correctAnswer": "Quá trình tìm hiểu, xác định những rủi ro có thể xảy ra liên quan tới công việc chuẩn bị thực hiện và đưa ra biện pháp phòng ngừa hợp lý."
     },
@@ -16844,8 +16840,7 @@
         "answers": [
             "Đã được thiết lập các biện pháp an toàn cho người, thiết bị khi thực hiện công việc.",
             "Đã được thiết lập các biện pháp an toàn cho người khi thực hiện công việc.",
-            "Đã được thiết lập các biện pháp an toàn cho thiết bị khi thực hiện công việc.",
-            NaN
+            "Đã được thiết lập các biện pháp an toàn cho thiết bị khi thực hiện công việc."
         ],
         "correctAnswer": "Đã được thiết lập các biện pháp an toàn cho người, thiết bị khi thực hiện công việc."
     },
@@ -17650,7 +17645,7 @@
         "correctAnswer": "Lập phương án cụ thể, chi tiết khi triển khai kế hoạch công việc; Phân định rõ trách nhiệm thực hiện của từng chức danh trong PCT và các bộ phận trong đơn vị."
     },
     {
-        "question": "Theo Quy trình An toàn điện, điều nào không đúng trong quy định khi vận hành xe chuyên dùng ?",
+        "question": "Theo Quy trình An toàn điện, điều nào không đúng trong quy định khi vận hành xe chuyên dùng ?",
         "answers": [
             "Chỉ những người đã được đào tạo kỹ năng đầy đủ và có chứng chỉ liên quan theo quy định của pháp luật mới được vận hành xe chuyên dùng.",
             "Người vận hành phải kiểm tra xe chuyên dùng trước khi xuất phát.",
@@ -17660,7 +17655,7 @@
         "correctAnswer": "Những người đã được đào tạo kỹ năng đầy đủ và được huấn luyện về QTATĐ về nội dung được phép làm việc mới được vận hành xe chuyên dùng."
     },
     {
-        "question": "Theo Quy trình An toàn điện, khi di chuyển, vận hành xe chuyên dùng trong khu vực trạm phải đảm bảo khoảng cách an toàn như thế nào ?",
+        "question": "Theo Quy trình An toàn điện, khi di chuyển, vận hành xe chuyên dùng trong khu vực trạm phải đảm bảo khoảng cách an toàn như thế nào ?",
         "answers": [
             "Khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm không nhỏ hơn khoảng cách an toàn điện không rào chắn.",
             "Khoảng cách nhỏ nhất từ bất kỳ bộ phận nào của xe đến phần mang điện của trạm không nhỏ hơn khoảng cách an toàn điện có rào chắn.",
